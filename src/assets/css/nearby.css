@@ -1,0 +1,208 @@
+@charset "UTF-8";
+body, div, p, ul, ol, li, dl, dt, dd, form, table, tr, td, h1, h2, h3, h4, h5, h6, fieldset, input, textarea, figure {
+  margin: 0;
+  padding: 0; }
+
+html, body {
+  height: 100%; }
+
+html {
+  font-size: 26.67vw; }
+
+body {
+  font-family: "微软雅黑",Arial;
+  display: -webkit-flex;
+  -webkit-flex-direction: column; }
+
+ol, ul {
+  list-style: none; }
+
+a {
+  text-decoration: none; }
+
+img {
+  display: block;
+  border: none; }
+
+header {
+  width: 100%;
+  height: 0.44rem;
+  display: -webkit-flex;
+  background: #fff;
+  -webkit-align-items: center;
+  padding-left: 0.12rem;
+  padding-right: 0.12rem;
+  box-sizing: border-box; }
+
+.header_left {
+  display: -webkit-flex;
+  -webkit-align-items: center; }
+  .header_left .icon-dingweiweizhi {
+    font-size: 0.15rem;
+    color: #a8aeb5; }
+  .header_left .icon-xiala {
+    font-size: 0.20rem;
+    color: #333333; }
+  .header_left span {
+    font-size: 0.15rem;
+    color: #424242;
+    margin-left: 0.03rem; }
+
+.header_right {
+  display: -webkit-flex;
+  position: relative;
+  -webkit-align-items: center;
+  margin-left: 0.12rem; }
+  .header_right i {
+    font-size: 0.15rem;
+    position: absolute;
+    left: 0.52rem;
+    color: #8e8e93; }
+  .header_right input {
+    width: 2.40rem;
+    height: 0.3rem;
+    border-radius: 0.15rem;
+    outline: none;
+    font-size: 0.12rem;
+    color: #666666;
+    text-align: center;
+    border: none;
+    background: #ebeced; }
+
+.nav {
+  width: 100%;
+  height: 0.44rem;
+  background: white;
+  display: -webkit-flex;
+  border-top: 1px solid #aaaaaa; }
+  .nav a {
+    box-sizing: border-box;
+    font-size: 0.13rem;
+    color: #787878;
+    margin-left: 0.3rem;
+    padding-bottom: 0.13rem;
+    padding-top: 0.13rem; }
+
+.bigBox {
+  -webkit-flex: 1;
+  overflow-x: hidden;
+  overflow-y: scroll; }
+
+.nav a:nth-child(1) {
+  border-bottom: 0.03rem solid #1ad0bd;
+  font-weight: 600;
+  color: #222222; }
+
+.hot {
+  width: 100%;
+  height: 0.9rem;
+  background: #f4f9f9;
+  display: -webkit-flex;
+  -webkit-flex-wrap: wrap;
+  -webkit-align-items: center;
+  padding-left: 0.12rem;
+  padding-right: 0.12rem;
+  box-sizing: border-box;
+  -webkit-justify-content: space-between; }
+  .hot a {
+    width: 0.82rem;
+    height: 0.28rem;
+    font-size: 0.14rem;
+    color: #becaca;
+    text-align: center;
+    border: 1px solid #e0e0e0;
+    border-radius: 0.14rem;
+    line-height: 0.28rem;
+    background: #fff; }
+
+.hot a:nth-child(1) {
+  background: #1ed4c1;
+  color: #fff; }
+
+.list {
+  width: 100%;
+  box-sizing: border-box;
+  padding-left: 0.2rem;
+  padding-right: 0.2rem; }
+
+.listInner {
+  width: 100%;
+  border-bottom: 1px solid #ececec;
+  display: -webkit-flex;
+  padding-top: 0.15rem;
+  padding-bottom: 0.15rem;
+  box-sizing: border-box;
+  justify-content: space-between; }
+  .listInner img {
+    width: 0.8rem;
+    height: 0.6rem; }
+  .listInner a {
+    font-size: 0.1rem;
+    color: #ff5846;
+    background: #ffeae8;
+    width: 0.42rem;
+    height: 0.16rem;
+    border-bottom-left-radius: 0.1rem;
+    text-align: center; }
+
+.listInner_middle {
+  display: -webkit-flex;
+  -webkit-flex-direction: column;
+  margin-left: -0.15rem; }
+  .listInner_middle h4 {
+    font-size: 0.15rem;
+    color: #333333; }
+
+.listInner_middle_box {
+  display: -webkit-flex;
+  margin-top: 0.08rem;
+  -webkit-align-items: center; }
+  .listInner_middle_box img {
+    width: 0.55rem;
+    height: 0.1rem;
+    margin-right: 0.07rem; }
+  .listInner_middle_box span {
+    font-size: 0.1rem;
+    color: #666666; }
+
+.listInner_middle_bottom {
+  display: -webkit-flex;
+  margin-top: 0.08rem;
+  -webkit-align-items: center; }
+  .listInner_middle_bottom img {
+    width: 0.15rem;
+    height: 0.15rem;
+    margin-right: 0.04rem; }
+  .listInner_middle_bottom p {
+    font-size: 0.1rem;
+    color: #666666; }
+
+footer {
+  width: 100%;
+  height: 0.49rem;
+  border-top: 1px solid #e5e5e5;
+  display: -webkit-flex;
+  -webkit-align-items: center;
+  padding-top: 0.04rem;
+  padding-bottom: 0.04rem;
+  box-sizing: border-box; }
+
+footer a {
+  margin-top: 0.07rem;
+  width: 20%;
+  display: -webkit-flex;
+  -webkit-flex-direction: column;
+  -webkit-align-items: center; }
+  footer a .iconfont {
+    font-size: 0.22rem;
+    color: #646464; }
+  footer a span {
+    font-size: 0.1rem;
+    color: #aca9a3;
+    margin-top: 0.03rem; }
+
+footer a .icon-fujin {
+  color: #55b6b1; }
+
+#fujin {
+  color: #55b6b1; }

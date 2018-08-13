@@ -1,0 +1,127 @@
+{
+  "gettotheshop": [
+    {
+      "title": "喜糖精致水饺",
+      "spanone": "686米",
+      "spantwo": "省4.1元配送费",
+      "pic": "static/img/sunTwoPagewufengpic1.png"
+    },
+    {
+      "title": "周先生的饭",
+      "spanone": "886米",
+      "spantwo": "省6.1元配送费",
+      "pic": "static/img/sunTwoPagewufengpic1.png"
+    },
+    {
+      "title": "李想大虾火锅",
+      "spanone": "236米",
+      "spantwo": "省2.1元配送费",
+      "pic": "static/img/sunTwoPagewufengpic1.png"
+    },
+    {
+      "title": "李想大虾火锅花园",
+      "spanone": "86米",
+      "spantwo": "省4.8元配送费",
+      "pic": "static/img/sunTwoPagewufengpic1.png"
+    },
+    {
+      "title": "李想大虾火锅花园",
+      "spanone": "636米",
+      "spantwo": "省5.1元配送费",
+      "pic": "static/img/sunTwoPagewufengpic1.png"
+    }
+  ],
+  "nearby":[
+    {
+      "title":"一只酸牛奶（唐延路T11店）",
+      "pingfen":"4.8",
+      "xiaoshou":"月售551",
+      "time":"37分钟",
+      "juli":"2.7km",
+      "qisong":"起送:￥20",
+      "peisong":"配送:￥4.6",
+      "renjun":"人均:￥13",
+      "class":"甜品",
+      "pingjia":"点评高分店铺",
+      "yuhuione":"30减5",
+      "yuhuitwo":"首单减14",
+      "yuhuithree":"",
+      "yuhuifour":"",
+      "yuhuifive":"支持自取",
+      "pic":"static/img/sunTwoPagenearpic1.png"
+    },
+    {
+      "title":"贡茶（奶盖茶T11 block唐延店）",
+      "pingfen":"4.7",
+      "xiaoshou":"月售1528",
+      "time":"38分钟",
+      "juli":"2.7km",
+      "qisong":"起送:￥20",
+      "peisong":"配送:￥4.6",
+      "renjun":"人均:￥16",
+      "class":"奶茶果汁",
+      "pingjia":"",
+      "yuhuione":"18减10",
+      "yuhuitwo":"30减13",
+      "yuhuithree":"50减23",
+      "yuhuifour":"90减40",
+      "yuhuifive":"支持自取",
+      "pic":"static/img/sunTwoPagenearpic5.png"
+    },
+    {
+      "title":"御品轩（枫叶新都市店）",
+      "pingfen":"4.7",
+      "xiaoshou":"月售893",
+      "time":"35分钟",
+      "juli":"2.8km",
+      "qisong":"起送:￥20",
+      "peisong":"配送:￥4.6",
+      "renjun":"人均:￥22",
+      "class":"甜品",
+      "pingjia":"点评高分店铺",
+      "yuhuione":"40减6",
+      "yuhuitwo":"60减10",
+      "yuhuithree":"80减14",
+      "yuhuifour":"6.27折起",
+      "yuhuifive":"支持自取",
+      "pic":"static/img/sunTwoPagenearpic2.png"
+    },
+    {
+      "title":"西安高新麦当劳万达餐厅",
+      "pingfen":"4.7",
+      "xiaoshou":"月售1722",
+      "time":"31分钟",
+      "juli":"2.3km",
+      "qisong":"起送:￥0",
+      "peisong":"配送:￥9",
+      "renjun":"人均:￥34",
+      "class":"西式快餐",
+      "pingjia":"",
+      "yuhuione":"4.76折起",
+      "yuhuitwo":"首单减14",
+      "yuhuithree":"",
+      "yuhuifour":"",
+      "yuhuifive":"票",
+      "pic":"static/img/sunTwoPagenearpic3.png"
+    },
+    {
+      "title":"酷辣一品香锅",
+      "pingfen":"4.3",
+      "xiaoshou":"月售752",
+      "time":"30分钟",
+      "juli":"2.2km",
+      "qisong":"起送:￥15",
+      "peisong":"配送:￥1.6",
+      "renjun":"人均:￥14",
+      "class":"麻辣香锅",
+      "pingjia":"",
+      "yuhuione":"30减5",
+      "yuhuitwo":"首单减14",
+      "yuhuithree":"支持自取",
+      "yuhuifour":"",
+      "yuhuifive":"支持自取",
+      "pic":"static/img/sunTwoPagenearpic4.png"
+    }
+  ]
+}
+

@@ -1,0 +1,183 @@
+@charset "UTF-8";
+/* CSS Document */
+body, div, p, ul, ol, li, dl, dt, dd, table, tr, td, form, hr, fieldset, h1, h2, h3, h4, h5, h6, img, input {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 26.67vw;
+}
+
+body {
+  font-family: "微软雅黑",Arial;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+img {
+  border: 0;
+}
+
+input, button {
+  outline: none;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.header {
+  display: flex;
+  height: .88rem;
+  flex-direction: column;
+}
+
+.header .header_top {
+  display: flex;
+  height: 0.44em;
+  justify-content: center;
+  align-items: center;
+  background: #f7f7f7;
+}
+
+.header .header_top span {
+  font-weight: 600;
+  color: #191919;
+  font-size: .14rem;
+}
+
+.header .header_bottom {
+  display: flex;
+  height: .44rem;
+  box-sizing: border-box;
+  border-top: 1px solid #acacac;
+  border-bottom: 1px solid #d8d8d8;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  align-items: center;
+}
+
+.header .header_bottom .header_a {
+  padding: 0 30px;
+  color: #646464;
+  font-size: .14rem;
+  height: 100%;
+  line-height: .44rem;
+  white-space: nowrap;
+}
+
+.header .header_bottom .choice {
+  color: #27d4c1;
+  border-bottom: 4px solid #27d4c1;
+}
+
+.section {
+  display: flex;
+  flex: 1;
+  overflow-y: scroll;
+  width: 100%;
+  overflow-x: hidden;
+  flex-direction: column;
+}
+
+.section .panel {
+  border-bottom: 1px solid #ccc;
+  padding: 0 .1rem;
+}
+
+.section .panel .panel_title {
+  font-size: .14rem;
+  font-weight: 600;
+  line-height: .22rem;
+  margin: .07rem 0;
+}
+
+.section .panel .panel_pic {
+  display: flex;
+  justify-content: space-between;
+}
+
+.section .panel .panel_pic img {
+  width: 1.135rem;
+  height: 0.855rem;
+}
+
+.section .panel .panel_intro {
+  line-height: .375rem;
+  font-size: .1rem;
+  color: #9b9b9b;
+}
+
+.section .panel .panel_intro .icon-CombinedShape- {
+  font-size: .08rem;
+  margin: 0 .04rem 0 .14rem;
+}
+
+.section .icon-huidingbu {
+  width: 0.25rem;
+  height: 0.25rem;
+  background: #fff;
+  color: #000;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  text-align: center;
+  line-height: .25rem;
+  position: fixed;
+  right: 5%;
+  bottom: 15%;
+}
+
+.footer {
+  display: flex;
+  height: .49rem;
+  border-top: 1px solid #e5e5e5;
+}
+
+.footer a {
+  font-size: .1rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #666668;
+}
+
+.footer a i {
+  font-size: .22rem;
+}
+
+.footer .active {
+  color: #01adc3;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 0px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  border-radius: 0px;
+}

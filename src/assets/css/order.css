@@ -1,0 +1,103 @@
+@charset "UTF-8";
+body, div, p, ul, ol, li, dl, dt, dd, form, table, tr, td, h1, h2, h3, h4, h5, h6, fieldset, input, textarea, figure {
+  margin: 0;
+  padding: 0; }
+
+html, body {
+  height: 100%; }
+
+body {
+  font-family: "微软雅黑",Arial; }
+
+ol, ul {
+  list-style: none; }
+
+a {
+  text-decoration: none; }
+
+img {
+  display: block;
+  border: none; }
+
+header {
+  width: 100%;
+  height: 60px;
+  background: #2d3054;
+  display: -webkit-flex;
+  -webkit-justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 30px;
+  box-sizing: border-box; }
+
+.header_left {
+  display: -webkit-flex;
+  align-items: center; }
+  .header_left a {
+    font-size: 20px;
+    color: #32bcad;
+    margin-left: 10px; }
+  .header_left img {
+    height: 60px;
+    width: 70px; }
+
+.header_right {
+  display: -webkit-flex;
+  -webkit-align-items: center; }
+  .header_right .iconfont {
+    font-size: 22px;
+    color: #32bcad; }
+
+.header_right .iconfont:nth-child(2) {
+  margin-left: 15px;
+  margin-right: 15px; }
+
+.header_right .serach {
+  position: relative; }
+  .header_right .serach .icon-sousuo {
+    color: #9296b8;
+    position: absolute;
+    left: 10px;
+    font-size: 20px;
+    top: 3px; }
+  .header_right .serach input {
+    width: 200px;
+    height: 25px;
+    border: none;
+    border-radius: 25px;
+    outline: none; }
+
+.contend_left {
+  width: 224px;
+  height: 900px;
+  background: #2d3054; }
+
+.contend_left ul li .li_list {
+  width: 196px;
+  height: 40px;
+  background: #2d3054;
+  display: -webkit-flex;
+  -webkit-align-items: center;
+  padding-left: 14px;
+  padding-right: 14px;
+  justify-content: space-between; }
+  .contend_left ul li .li_list .libox {
+    display: -webkit-flex;
+    -webkit-align-items: center; }
+    .contend_left ul li .li_list .libox span {
+      margin-left: 10px;
+      font-size: 14px;
+      color: #99a0ac; }
+    .contend_left ul li .li_list .libox .iconfont {
+      color: #99a0ac;
+      font-size: 14px; }
+
+#second_choose a li {
+  width: 184px;
+  height: 40px;
+  color: #99a0ab;
+  font-size: 14px;
+  padding-left: 40px;
+  line-height: 40px; }
+
+#second_choose {
+  display: none; }

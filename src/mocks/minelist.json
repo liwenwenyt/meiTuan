@@ -1,0 +1,45 @@
+
+  {"food":[
+          {"title":"吉熊堡堡炸鸡汉堡(高新店)","score":"4.5分","aver":"￥40","client":"回头客多","recommend":"朋友推荐","produce":"单人餐9.9元，双人餐15.8元","distance":"318m","pic":"/static/img/wy01.png"},
+          {"title":"秦镇凉皮腊汁肉夹馍","score":"4.1分","aver":"￥18","produce":"9.9元凉皮套餐，18元凉皮+肉夹馍","distance":"268m","pic":"/static/img/wy02.png"},
+          {"title":"唯美香蛋糕(高新店)","score":"4.3分","client":"新客减5","produce":"单人餐9.9元","distance":"329m","pic":"/static/img/wy03.png"},
+          {"title":"石鱼记波波鱼","score":"4.4分","aver":"￥68","client":"回头客多","recommend":"朋友推荐","produce":"单人餐9.9元","distance":"529m","pic":"/static/img/wy01.png"},
+          {"title":"无敌鸡排","score":"5.0分","aver":"￥18","client":"新客减2","recommend":"好评最多","produce":"4.5元特色单品...","distance":"582m","pic":"/static/img/wy02.png"},
+          {"title":"串巷火锅串串","score":"4.8分","aver":"￥38","produce":"59元双人餐，128元斯人餐，228人六人餐,128元斯人餐，228人六人餐","distance":"586m","pic":"/static/img/wy03.png"}
+          ],
+  "life":[
+    {"title":"路客车生活","score":"4.2分","aver":"￥39","produce":"26.8元精致洗车，128元精致护车+养护，358元精致无痕洗车+内饰清洁","distance":"1.5km","pic":"/static/img/wylife01.png"},
+    {"title":"拾华记花艺生活馆","score":"4.7分","produce":"8元1选1，99元1选1，109元1选1，116元1选1，118元1选1，128元1选1","distance":"1.3km","pic":"/static/img/wylife02.png"},
+    {"title":"雁塔冯茂秀口腔诊所","score":"4.8分","produce":"门市价￥315","distance":400,"pic":"/static/img/wylife03.png"},
+    {"title":"yong爱鲜花店","score":"4.9分","produce":"49元月送鲜花插花束家庭酒店商场办公室司束起送送花瓶周日周一统一配送，78元精品...","distance":"1.7km","pic":"/static/img/wylife01.png"},
+    {"title":"优加鲜果","score":"4.9分","aver":"￥18","produce":"7元百香果3个，8元白心火龙果一斤，9元套袋酥梨3斤，9元散装原味瓜子一斤，10元炒...","distance":"2.1km","pic":"/static/img/wylife02.png"},
+    {"title":"陌上花卉","score":"4.5分","aver":"￥35","produce":"10元绿萝(180型)全城免费送货上门 可货到再团，15选1选1....","distance":"1.9km","pic":"/static/img/wylife03.png"}
+  ],
+
+"play":[
+    {"title":"歇歇脚吧按摩馆","score":"4.7分","produce":"【新店特惠】单人专业中式背部拔罐","distance":"1.6km","pic":"/static/img/wyplay01.png"},
+    {"title":"大足神农(科技六路店)","score":"4.8分","aver":"￥35","produce":"单人高级养生套餐","distance":"1.7km","pic":"/static/img/wyplay02.png"},
+    {"title":"若色造型(高新店)","score":"5.0分","aver":"￥68","produce":"单人餐9.9元","distance":"689m","pic":"/static/img/wyplay03.png"},
+    {"title":"美奇丝私人定制(玫瑰公...","score":"4.8分","aver":"￥68","produce":"单人染发秀护套餐","distance":"865m","pic":"/static/img/wyplay01.png"},
+    {"title":"首宇盲人推拿按摩","score":"4.7分","produce":"单人全身按摩+拔罐套餐","distance":"1.3km","pic":"/static/img/wyplay02.png"},
+    {"title":"水莲美业","score":"4.8分","aver":"￥56","produce":"单人蔻丹一次","distance":"566m","pic":"/static/img/wyplay03.png"}
+  ],
+
+"host":[
+    {"title":"雅居连锁酒店","client":"新客减10","recommend":"家庭聚餐","score":"4.7分","aver":"￥112","produce":"单人餐9.9元","distance":"548m","pic":"/static/img/wyhost01.png"},
+    {"title":"西安高新逸华国际酒店","client":"新客减10","recommend":"家庭聚餐","score":"4.9分","aver":"￥88","produce":"单人餐9.9元","distance":"1.2km","pic":"/static/img/wyhost02.png"},
+    {"title":"西安携程精品酒店","client":"新客减10","recommend":"家庭聚餐","score":"4.5分","aver":"￥128","produce":"单人餐9.9元","distance":"2.5km","pic":"/static/img/wyhost03.png"},
+    {"title":"驿路快捷酒店","client":"新客减10","recommend":"家庭聚餐","score":"4.8分","aver":"￥89","produce":"单人餐9.9元","distance":"3.56km","pic":"/static/img/wyhost04.png"},
+    {"title":"尚客优连锁酒店","client":"新客减10","recommend":"家庭聚餐","score":"4.3分","aver":"￥90","produce":"单人餐9.9元","distance":"1.2km","pic":"/static/img/wyhost02.png"},
+    {"title":"海升酒店","client":"新客减10","recommend":"家庭聚餐","score":"4.4分","aver":"￥110","produce":"单人餐9.9元","distance":"559m","pic":"/static/img/wyhost04.png"}
+  ],
+"all":[
+    {"title":"红透天自助涮烤","score":"4.9分","aver":"￥43","client":"回头客多","produce":"其他40.8元，其他47.8元，单人午餐39.8元，单人晚餐41.0元，单人...","distance":"3.0km","pic":"/static/img/wyall01.png"},
+    {"title":"盛运涮烤自助餐厅","score":"4.4分","aver":"￥38","client":"朋友聚餐","produce":"其他36.8元，其他42.8元，单人午餐39.8元，单人晚餐41.0元，单人...","distance":"4.8km","pic":"/static/img/wyall02.png"},
+    {"title":"Vacake","score":"4.6分","client":"约会圣地","produce":"158元蛋糕4选1，梦幻巴黎158元，红树莓芝士芒果慕斯双拼158元...","distance":"2.2km","pic":"/static/img/wyall03.png"},
+    {"title":"吴铭火锅(科技路西口店)","score":"4.7分","aver":"￥30","client":"新客减10","recommend":"家庭聚餐","client":"电子商城","produce":"2-3人餐118元，3-4人餐148元，4-6人餐198元，4-6人餐198元，4-6人餐198元...","distance":"4.5km","pic":"/static/img/wyall04.png"},
+    {"title":"Vwsweet cake维斯蛋特蛋糕...","score":"4.8分","aver":"￥48","produce":"55元日式豆乳 咸奥利奥奶油 芒果 便当盒 抖音网红蛋糕98元，芭比 朵拉116元，6英寸...","distance":"2.4km","pic":"/static/img/wyall02.png"},
+    {"title":"伯爵工房(大寨路店)","score":"4.6分","aver":"￥38","client":"休闲小憩","produce":"10元甜甜圈，23.8元蛋糕4选1,88元蛋糕6选1,109元蛋糕10选1,1..","distance":"2.2km","pic":"/static/img/wyall03.png"}
+  ]
+  }
+
